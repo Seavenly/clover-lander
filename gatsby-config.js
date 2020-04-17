@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: '/clover-lander',
     siteMetadata: {
         title: `Clover Developer App Lander`,
         description: `Bare bones lander to grab your API access token.`,
